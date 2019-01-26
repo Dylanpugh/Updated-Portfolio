@@ -109,6 +109,9 @@ ul{
     
 }
 
+.gallery:hover{
+    border: 1px solid blue;
+}
 
 @media only screen and (max-width: 980px) {
     
